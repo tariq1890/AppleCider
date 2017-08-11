@@ -37,5 +37,5 @@ class DataAnalyzer:
 
 if __name__ == '__main__':
     analyzer = DataAnalyzer()
-    analyzer.analyze_file('./data_file.txt')
+    analyzer.analyze_file('../run1/data_file_aggregated.txt')
     analyzer.print_statistics()

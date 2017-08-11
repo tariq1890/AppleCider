@@ -1,9 +1,6 @@
 import csv
 import string
 from urllib import request
-from urllib.error import URLError
-from urllib.error import HTTPError
-
 import os
 from bs4 import BeautifulSoup
 
@@ -50,7 +47,7 @@ class SoupyCrawler:
         for i in range(1, len(row)):
             if len(row[i]) > 0:
                 print("Fetching " + row[i])
-                tokens = self.get_tokens_from_url(row[i])
+                tokens = self.get_tokens_from_url(row[0].strip().translate(self.translator).split(), row[i])
                 if len(tokens.intersection(query_keywords)) > 0:
                     res.append(row[i])
                 elif any(word in ' '.join(tokens) for word in query_keywords):
@@ -58,40 +55,33 @@ class SoupyCrawler:
 
         return res
 
-    def get_tokens_from_url(self, url):
+    def get_tokens_from_url(self, query_keywords, url):
         tokens = set()
 
-        if '//' not in url:
-            url = '%s%s' % ('http://', url)
+        tempUrl = url
 
-        if url in self.bad_urls:
+        if '//' not in url:
+            tempUrl = '%s%s' % ('http://', url)
+
+        if tempUrl in self.bad_urls:
             return tokens
 
-        req = request.Request(url, data=b'None', headers={'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'})
+        req = request.Request(tempUrl, data=b'None', headers={'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'})
 
         try:
             html = request.urlopen(req).read()
         except Exception:
-            with open('ErrorUrls.txt', 'a') as outfile:
-                outfile.write(url + '\n')
-            return tokens
+            if '//' not in url:
+                tempUrl = '%s%s' % ('https://', url)
 
-        # except HTTPError:
-        #     with open('404Files.txt', 'a') as outfile:
-        #         outfile.write(url + '\n')
-        #     return tokens
-        # except URLError:
-        #     with open('URLErrorFile.txt', 'a') as outfile:
-        #         outfile.write(url + '\n')
-        #     return tokens
-        # except UnicodeEncodeError:
-        #     with open('UnicodeEncodingErrorFile.txt', 'a') as outfile:
-        #         outfile.write(url + '\n')
-        #     return tokens
-        # except Exception:
-        #     with open('OtherErrorFile.txt', 'a') as outfile:
-        #         outfile.write(url + '\n')
-        #     return tokens
+            req = request.Request(tempUrl, data=b'None', headers={
+                'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'})
+            try:
+                html = request.urlopen(req).read()
+            except Exception:
+                with open('ErrorUrls.txt', 'a') as outfile:
+                    outfile.write(str(query_keywords) + " " + tempUrl + '\n')
+                return tokens
 
         if bool(BeautifulSoup(html, "html.parser").find()):
             soup = BeautifulSoup(html, 'html.parser')
