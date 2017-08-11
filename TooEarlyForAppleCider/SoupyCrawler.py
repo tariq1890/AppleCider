@@ -3,6 +3,8 @@ import string
 from urllib import request
 from urllib.error import URLError
 from urllib.error import HTTPError
+
+import os
 from bs4 import BeautifulSoup
 
 
@@ -17,18 +19,21 @@ class SoupyCrawler:
         with open(file_name) as f:
             return set(f.read().splitlines())
 
-    def extract_urls_from_csv(self, csv_file_name):
+    def extract_urls_from_csv_directory(self, csv_dir_name):
         black_list_words = set()
 
-        with open(csv_file_name, newline='') as csvfile:
-            csv_reader = csv.reader(csvfile, delimiter=',', quotechar='|')
-            for row in csv_reader:
-                if row[0] == 'NewTask':
-                    black_list_words = set()
-                    black_list_words.update(row[1].strip().split())
-                else:
-                    matched_urls = self.process_row(row, black_list_words)
-                    self.query_to_url_matches.append((row[0], matched_urls))
+        for csv_file in os.listdir(csv_dir_name):
+            if os.fsdecode(csv_file).endswith('.csv'):
+                print("Mining " + os.fsdecode(csv_file))
+                with open(os.path.abspath(csv_dir_name + "/" + csv_file), newline='') as csvfile:
+                    csv_reader = csv.reader(csvfile, delimiter=',', quotechar='|')
+                    for row in csv_reader:
+                        if row[0] == 'NewTask':
+                            black_list_words = set()
+                            black_list_words.update(row[1].strip().split())
+                        else:
+                            matched_urls = self.process_row(row, black_list_words)
+                            self.query_to_url_matches.append((row[0], matched_urls))
 
     def process_row(self, row, black_list_words):
         res = []
@@ -65,6 +70,9 @@ class SoupyCrawler:
         except URLError:
             print('URL Error for', url)
             return tokens
+        except UnicodeEncodeError:
+            print('UnicodeEncodeError for', url)
+            return tokens
 
         if bool(BeautifulSoup(html, "html.parser").find()):
             soup = BeautifulSoup(html, 'html.parser')
@@ -74,7 +82,7 @@ class SoupyCrawler:
 
         return tokens
 
-    def write_to_file(self):
-        with open('url_details.txt', 'w') as outfile:
+    def write_to_file(self, file_name):
+        with open(file_name, 'w') as outfile:
             for t in self.query_to_url_matches:
                 outfile.write(t[0] + '::' + str(t[1]) + '\n')
