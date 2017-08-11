@@ -1,8 +1,8 @@
-NewTask,all possible groups
-all possible groupings with 4 elements,
-java get all possible groupings,stackoverflow.com/questions/21515267/how-to-create-a-list-of-all-possible-groupings-from-n-elements
-power set,stackoverflow.com/questions/21835204/how-to-get-all-combinations-of-list-groupings-of-at-least-a-certain-size
-power set of size,
-guava sets,stackoverflow.com/questions/20935315/java-generate-the-power-set-of-a-given-list
-java all possible groupings,www.baeldung.com/guava-sets
-java n people into k groups,stackoverflow.com/questions/20395235/create-all-possible-ways-of-putting-n-users-into-k-groups,stackoverflow.com/questions/2129805/algorithm-to-determine-possible-groups-of-items,codereview.stackexchange.com/questions/41510/calculate-all-possible-combinations-of-given-characters,codereview.stackexchange.com/questions/12262/create-a-list-of-all-possible-combinations-of-elements-into-n-groups-from-a-set
+NewTask,all possible groups,,,,,,,,,,,,,,,,,,,,,,
+all possible groupings with 4 elements,,,,,,,,,,,,,,,,,,,,,,,
+java get all possible groupings,stackoverflow.com/questions/21515267/how-to-create-a-list-of-all-possible-groupings-from-n-elements,,,,,,,,,,,,,,,,,,,,,,
+power set,stackoverflow.com/questions/21835204/how-to-get-all-combinations-of-list-groupings-of-at-least-a-certain-size,,,,,,,,,,,,,,,,,,,,,,
+power set of size,,,,,,,,,,,,,,,,,,,,,,,
+guava sets,stackoverflow.com/questions/20935315/java-generate-the-power-set-of-a-given-list,,,,,,,,,,,,,,,,,,,,,,
+java all possible groupings,www.baeldung.com/guava-sets,,,,,,,,,,,,,,,,,,,,,,
+java n people into k groups,stackoverflow.com/questions/20395235/create-all-possible-ways-of-putting-n-users-into-k-groups,stackoverflow.com/questions/2129805/algorithm-to-determine-possible-groups-of-items,codereview.stackexchange.com/questions/41510/calculate-all-possible-combinations-of-given-characters,codereview.stackexchange.com/questions/12262/create-a-list-of-all-possible-combinations-of-elements-into-n-groups-from-a-set,,,,,,,,,,,,,,,,,,,
