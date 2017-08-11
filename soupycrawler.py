@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup # the library to parse things
 from urllib import request
+from urllib.error import HTTPError
+from urllib.error import URLError
 import string
 import csv
 
@@ -49,14 +51,22 @@ def writeToFile(query_urls):
             outfile.write(t[0] + '::' + str(t[1]) + '\n')
 
 def get_tokens_from_url(url):
+    #TODO: Remove enclosing quotes from url. Don't use translator as it breaks the url. For eg:- dashes are converted to whitespaces
     if '//' not in url:
         url = '%s%s' % ('http://', url)
-    print(url)
+   #Uncomment below to track problematic urls
+   # print(url)
     req = request.Request(url, data=b'None', headers={
         'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'})
-    html = request.urlopen(req).read()
-    #TODO: Tariq : handle 404 URLs
-
+    try:
+        html = request.urlopen(req).read()
+    except HTTPError:
+        with open('404Files.txt', 'a') as outfile:
+            outfile.write(url + '\n')
+        return set()
+    except URLError:
+        print('URL Error for', url)
+        return set()
 
     if bool(BeautifulSoup(html, "html.parser").find()):
         soup = BeautifulSoup(html, 'html.parser')
