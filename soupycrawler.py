@@ -26,6 +26,9 @@ def extract_from_csv(filename):
                 black_list_words = set()
                 black_list_words.update(row[1].strip().split())
             else:
+                #TODO: Thomas
+                if len(row[1]) == 0:
+                    continue
                 urls = []
                 query_words = set([word.lower() for word in row[0].strip().translate(translator).split()]).difference(black_list_words)
                 query_words = query_words.difference(stop_words)
@@ -49,7 +52,11 @@ def get_tokens_from_url(url):
     if '//' not in url:
         url = '%s%s' % ('http://', url)
     print(url)
-    html = request.urlopen(url).read()
+    req = request.Request(url, data=b'None', headers={
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'})
+    html = request.urlopen(req).read()
+    #TODO: Tariq : handle 404 URLs
+
 
     if bool(BeautifulSoup(html, "html.parser").find()):
         soup = BeautifulSoup(html, 'html.parser')
@@ -61,5 +68,5 @@ def get_tokens_from_url(url):
     return set()
 
 stop_words = read_stop_words()
-query_urls = extract_from_csv('SpecialGoogle.csv')
+query_urls = extract_from_csv('SpecialGoogleFinal.csv')
 writeToFile(query_urls)
