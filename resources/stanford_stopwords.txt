@@ -142,7 +142,6 @@ we'd
 we'll
 we're
 we've
-were
 weren't
 what
 what's
@@ -184,7 +183,6 @@ heres
 hows
 im
 isnt
-its
 lets
 mustnt
 shant
