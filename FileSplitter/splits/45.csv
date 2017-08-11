@@ -1,15 +1,15 @@
-NewTask,algebra java code
-basic algebra java code,introcs.cs.princeton.edu/java/95linear/
-basic algebra algorithm java,introcs.cs.princeton.edu/java/11cheatsheet/
-addition algorithm java,
-algebra basics algorithm,stackoverflow.com/questions/2412622/algorithm-for-binary-arithmetic-in-java,www.programmingsimplified.com/java/source-code/java-program-add-two-numbers
-algebra basics algorithms implementation java,www.mathematik.uni-kl.de/~decker/Lehre/SS11/pramaSymbol/skript/ppp1.pdf,https://services.brics.dk/java/courseadmin/AA,https://services.brics.dk/java/courseadmin/AA/news,https://services.brics.dk/java/courseadmin/AA/pages/Lectures,https://services.brics.dk/java/courseadmin/AA/pages/Scribe+Notes,https://services.brics.dk/java/courseadmin/AA/documents/
-linear algebra java,www.sanfoundry.com/java-programming-examples-numerical-problems-algorithms/,www.sanfoundry.com/java-program-solve-linear-equation/
-linear algebra java implementation,
-linear algebra java implementation github,introcs.cs.princeton.edu/java/95linear/
-linear algebra java implementation stack,
-linear algebra java code stack,scicomp.stackexchange.com/questions/2656/recommendations-for-a-usable-fast-java-matrix-library,stackoverflow.com/questions/529457/performance-of-java-matrix-math-libraries
-tutorial linear algebra java code stack,
-linear algebra examples java,stackoverflow.com/questions/6401851/linear-algebra-usage-in-programming,gamedev.stackexchange.com/questions/2029/what-math-should-all-game-programmers-know
-basic algebra examples java,math.nist.gov/javanumerics/jama/
-algebra examples java,
+NewTask,algebra java code,,,,,,,,,,,,,,,,,,,,,,
+basic algebra java code,introcs.cs.princeton.edu/java/95linear/,,,,,,,,,,,,,,,,,,,,,,
+basic algebra algorithm java,introcs.cs.princeton.edu/java/11cheatsheet/,,,,,,,,,,,,,,,,,,,,,,
+addition algorithm java,,,,,,,,,,,,,,,,,,,,,,,
+algebra basics algorithm,stackoverflow.com/questions/2412622/algorithm-for-binary-arithmetic-in-java,www.programmingsimplified.com/java/source-code/java-program-add-two-numbers,,,,,,,,,,,,,,,,,,,,,
+algebra basics algorithms implementation java,www.mathematik.uni-kl.de/~decker/Lehre/SS11/pramaSymbol/skript/ppp1.pdf,https://services.brics.dk/java/courseadmin/AA,https://services.brics.dk/java/courseadmin/AA/news,https://services.brics.dk/java/courseadmin/AA/pages/Lectures,https://services.brics.dk/java/courseadmin/AA/pages/Scribe+Notes,https://services.brics.dk/java/courseadmin/AA/documents/,,,,,,,,,,,,,,,,,
+linear algebra java,www.sanfoundry.com/java-programming-examples-numerical-problems-algorithms/,www.sanfoundry.com/java-program-solve-linear-equation/,,,,,,,,,,,,,,,,,,,,,
+linear algebra java implementation,,,,,,,,,,,,,,,,,,,,,,,
+linear algebra java implementation github,introcs.cs.princeton.edu/java/95linear/,,,,,,,,,,,,,,,,,,,,,,
+linear algebra java implementation stack,,,,,,,,,,,,,,,,,,,,,,,
+linear algebra java code stack,scicomp.stackexchange.com/questions/2656/recommendations-for-a-usable-fast-java-matrix-library,stackoverflow.com/questions/529457/performance-of-java-matrix-math-libraries,,,,,,,,,,,,,,,,,,,,,
+tutorial linear algebra java code stack,,,,,,,,,,,,,,,,,,,,,,,
+linear algebra examples java,stackoverflow.com/questions/6401851/linear-algebra-usage-in-programming,gamedev.stackexchange.com/questions/2029/what-math-should-all-game-programmers-know,,,,,,,,,,,,,,,,,,,,,
+basic algebra examples java,math.nist.gov/javanumerics/jama/,,,,,,,,,,,,,,,,,,,,,,
+algebra examples java,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,10 +1,10 @@
-NewTask,java equation randomizer
-java equation,
-java equation algebra,stackoverflow.com/questions/12134493/how-do-math-equations-work-in-java,stackoverflow.com/questions/4681959/algebra-equation-parser-for-java,www.singularsys.com/jep/,www.sanfoundry.com/java-program-solve-linear-equation/
-java basic algebra,stackoverflow.com/questions/15227122/solving-two-algebraic-equations-in-java,www.dreamincode.net/forums/topic/214240-java-algebraic-equation-with-gui-interface/,stackoverflow.com/questions/1431885/how-to-solve-equations-with-java,www.inmath.com/matrices-determinants/1-determinants.php,commons.apache.org/proper/commons-math/userguide/linear.html
-java algebra,
-java math equations,
-java apache util math,www.functionx.com/java/Lession17.htm
-java apache math solver,commons.apache.org/proper/commons-math/,commons.apache.org/proper/commons-math/apidocs/index.html
-java equation parser,commons.apache.org/proper/commons-math/userguide/analysis.html,commons.apache.org/proper/commons-math/userguide/overview.html,commons.apache.org/proper/commons-math/userguide/analysis.html,commons.apache.org/proper/commons-math/userguide/random.html,commons.apache.org/proper/commons-math/userguide/utilities.html,commons.apache.org/proper/commons-math/userguide/index.html,commons.apache.org/proper/commons-math/userguide/stat.html#a1.4_Simple_regression,commons.apache.org/proper/commons-math/userguide/index.html,commons.apache.org/proper/commons-math/userguide/stat.html#a1.4_Simple_regression
-java random expression generator,stackoverflow.com/questions/3422673/evaluating-a-math-expression-given-in-string-form,http://en.wikipedia.org/wiki/Lexical_analysis,stackoverflow.com/questions/3422673/evaluating-a-math-expression-given-in-string-form
+NewTask,java equation randomizer,,,,,,,,,,,,,,,,,,,,,,
+java equation,,,,,,,,,,,,,,,,,,,,,,,
+java equation algebra,stackoverflow.com/questions/12134493/how-do-math-equations-work-in-java,stackoverflow.com/questions/4681959/algebra-equation-parser-for-java,www.singularsys.com/jep/,www.sanfoundry.com/java-program-solve-linear-equation/,,,,,,,,,,,,,,,,,,,
+java basic algebra,stackoverflow.com/questions/15227122/solving-two-algebraic-equations-in-java,www.dreamincode.net/forums/topic/214240-java-algebraic-equation-with-gui-interface/,stackoverflow.com/questions/1431885/how-to-solve-equations-with-java,www.inmath.com/matrices-determinants/1-determinants.php,commons.apache.org/proper/commons-math/userguide/linear.html,,,,,,,,,,,,,,,,,,
+java algebra,,,,,,,,,,,,,,,,,,,,,,,
+java math equations,,,,,,,,,,,,,,,,,,,,,,,
+java apache util math,www.functionx.com/java/Lession17.htm,,,,,,,,,,,,,,,,,,,,,,
+java apache math solver,commons.apache.org/proper/commons-math/,commons.apache.org/proper/commons-math/apidocs/index.html,,,,,,,,,,,,,,,,,,,,,
+java equation parser,commons.apache.org/proper/commons-math/userguide/analysis.html,commons.apache.org/proper/commons-math/userguide/overview.html,commons.apache.org/proper/commons-math/userguide/analysis.html,commons.apache.org/proper/commons-math/userguide/random.html,commons.apache.org/proper/commons-math/userguide/utilities.html,commons.apache.org/proper/commons-math/userguide/index.html,commons.apache.org/proper/commons-math/userguide/stat.html#a1.4_Simple_regression,commons.apache.org/proper/commons-math/userguide/index.html,commons.apache.org/proper/commons-math/userguide/stat.html#a1.4_Simple_regression,,,,,,,,,,,,,,
+java random expression generator,stackoverflow.com/questions/3422673/evaluating-a-math-expression-given-in-string-form,http://en.wikipedia.org/wiki/Lexical_analysis,stackoverflow.com/questions/3422673/evaluating-a-math-expression-given-in-string-form,,,,,,,,,,,,,,,,,,,,
