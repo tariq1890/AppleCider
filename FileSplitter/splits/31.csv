@@ -1,7 +1,7 @@
-NewTask,java drawing program example,,,,,,,,,,,,,,,,,,,,,,
-opengl java sketching,cs.lmu.edu/~ray/notes/javagraphics,,,,,,,,,,,,,,,,,,,,,,
-java sketching program example,www.tutorialspoint.com/jogl/jogl_graphical_shapes.htm,www.cs.umd.edu/~meesh/kmconroy/JOGLTutorial,,,,,,,,,,,,,,,,,,,,,
-java drawing program example,https://www.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html,,,,,,,,,,,,,,,,,,,,,,
-java draw in response to user input,beginwithjava.blogspot.com/2008/07/very-basic-graphics-3-examples.html,,,,,,,,,,,,,,,,,,,,,,
-java advanced drawing,www.dreamincode.net/forums/topic/276665-applet-to-draw-rectangle-with-user-input,stackoverflow.com/questions/16383990/applet-drawing-in-response-to-user-input,,,,,,,,,,,,,,,,,,,,,
-jcolorchooser,https://docs.oracle.com/javase/tutorial/2d/advanced,https://docs.oracle.com/javase/tutorial/2d/advanced/user.html,https://docs.oracle.com/javase/tutorial/2d/advanced/examples/HitTestSample.java,https://docs.oracle.com/javase/tutorial/2d/advanced/examples/ShapeMover.java,https://www.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html,,,,,,,,,,,,,,,,,,
+NewTask,java drawing program example
+opengl java sketching,cs.lmu.edu/~ray/notes/javagraphics
+java sketching program example,www.tutorialspoint.com/jogl/jogl_graphical_shapes.htm,www.cs.umd.edu/~meesh/kmconroy/JOGLTutorial
+java drawing program example,https://www.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html
+java draw in response to user input,beginwithjava.blogspot.com/2008/07/very-basic-graphics-3-examples.html
+java advanced drawing,www.dreamincode.net/forums/topic/276665-applet-to-draw-rectangle-with-user-input,stackoverflow.com/questions/16383990/applet-drawing-in-response-to-user-input
+jcolorchooser,https://docs.oracle.com/javase/tutorial/2d/advanced,https://docs.oracle.com/javase/tutorial/2d/advanced/user.html,https://docs.oracle.com/javase/tutorial/2d/advanced/examples/HitTestSample.java,https://docs.oracle.com/javase/tutorial/2d/advanced/examples/ShapeMover.java,https://www.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html

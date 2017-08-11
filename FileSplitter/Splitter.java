@@ -43,6 +43,6 @@ public class Splitter {
 
 	public static void main(String[] args) {
 		Splitter obj = new Splitter();
-		obj.splitFileByNewTask("./SpecialGoogleFinalv2.csv");
+		obj.splitFileByNewTask("./GoogleLogs_v4.csv");
 	}
 }
