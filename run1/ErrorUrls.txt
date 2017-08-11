@@ -1,0 +1,129 @@
+{'source', 'java', 'code'} https://stackoverflow.com/questions/���_/open-source-survey-questionaire-engine-for-java/
+{'sims', 'code'} https://www.java-gaming.org/topics/locking-list
+{'sims', 'code'} http://www.quora.com/Do-I-need-to-learn-data-structures-for-video-game-programming
+{'sims', 'code'} http://www.quora.com/What-is-the-best-data-structure-for-a-2D-real-time-game-for-drawing-and-collisions
+{'sims', 'code'} https://www.java-gaming.org/topics/locking-list
+{'sims', 'code'} http://www.quora.com/Do-I-need-to-learn-data-structures-for-video-game-programming
+{'sims', 'code'} http://www.quora.com/What-is-the-best-data-structure-for-a-2D-real-time-game-for-drawing-and-collisions
+{'data', 'structure'} https://martin-thoma.com/images/2012/04/minted-source-code.pdf
+set() https://jdesurvey.codeplex.com
+set() https://jdesurvey.codeplex.com/SourceControl/latest#README.md
+set() https://jdesurvey.codeplex.com/wikipage?title=Developer%20Information
+set() https://jdesurvey.codeplex.com/documentation
+set() https://www.jdsoft.com
+{'examples', 'applications'} https://www.journaldev.com/1854/java-web-application-tutorial-for-beginners
+{'examples', 'applications'} https://docs.oracle.com/javaee/6/tutorial/doc/bnadh.html
+{'algorithms', 'site', 'com', 'groups', 'stackoverflow'} http://docjar.com/html/api/java.util/Collections.java.html
+{'solve', 'equations'} https://avc.com/2015/07/using-code-to-teach-algebra/
+{'paint'} https://docs.oracle.com/javase/tutorial/uiswing/drawing/
+{'drawing', 'tutorial'} https://stackoverflow.com/questions/16995308/can-you-increase-line-thickness-when-using-java-graphics-for-an-applet-i-don���䋢t
+{'basic', 'algebra'} https://www.inmath.com/matrices-determinants/1-determinants.php
+{'apache', 'util', 'math'} https://www.functionx.com/java/Lession17.htm
+{'expression', 'generator', 'random'} http://en.wikipedia.org/wiki/Lexical_analysis
+{'guava'} https://stackoverflow.com/questions/135892/is-there-a-library-for-linear-algebra-matrix-handling-in-java
+{'va', 'site', 'sy', 'system', 'com', 'examples', 'ava', 'stackoverflow', 'stackov'} https://stackoverflow.com/questions3051138/how-would-someone-implement-mathematical-formulae-in-java
+{'algebraic', 'type', 'data'} https://github.com/Jamesiry/jADT
+{'class', 'polynomial'} https://statr.me/2015/09/an-overview-of-linear-algebra-libraries-in-scala-java
+{'com', 'site', 'stackoverflow', 'github'} https://avc.com/2015/07/using-code-to-teach-algebra/
+{'generating', 'equations', 'for', 'math'} https://avc.com/2015/07/using-code-to-teach-algebra/
+{'generating', 'equations', 'for', 'math'} https://www.mathandcoding.org
+{'math', 'operator', 'random'} https://javagraphics.java.net/doc/com/bric/math/Equations.html
+{'math', 'operator', 'random'} https://javagraphics.java.net/doc/com/bric/math/Equations.html#Equations~~
+{'math', 'operator', 'random'} https://java.net/svn/javagraphics~svn/trunk/src/com/bric/math/Equations.java
+set() https://www.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html
+{'input', 'response', 'draw', 'in', 'user'} https://beginwithjava.blogspot.com/2008/07/very-basic-graphics-3-examples.html
+{'jcolorchooser'} https://www.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html
+{'count', 'messages'} https://java-source.net/open-source/mail-clients
+{'count', 'messages'} https://freesourcecode.net/javaprojects/12945/Java-Email-Client-Example#.V0NziZMrK_A
+{'count', 'messages'} https://freesourcecode.net/javaprojects/12945/MailBox.java#.V0NziZMrK_A
+{'count', 'messages'} https://www.java2s.com/Code/Java/Network-Protocol/PureJavaEmailClient.htm
+{'count', 'messages'} https://github.com/sendwithus/sendwithus_java
+{'count', 'messages'} https://github.com/sendwithus/sendwithus_java/tree/master/client
+{'count', 'messages'} https://github.com/sendwithus/sendwithus_java/tree/master/client/src
+{'count', 'messages'} https://github.com/sendwithus/sendwithus_java/tree/master/client/src/main/java/com/sendwithus
+{'count', 'messages'} https://github.com/sendwithus/sendwithus_java/tree/master/client/src/main/java/com/sendwithus/SendWithUs.java
+{'program', 'code'} https://gist.github.com/jewelsea/2850787
+{'program', 'code'} https://www.twillio.com/docs/tutorials/walkthrough/automated-survey/java/spring
+{'application', 'parts'} https://jdesurvey.codeplex.com
+{'application', 'parts'} https://jdesurvey.codeplex.com/SourceControl/latest#README.md
+{'application', 'parts'} https://jdesurvey.codeplex.com/documentation
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-all
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/util
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/service
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/service/survey
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/service/survey/SurveyService.java
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey
+{'application', 'parts'} https://gist.github.com/jewelsea/2850787
+{'application', 'parts'} https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/service/survey/SurveyService.java
+{'database'} https://www.surveysystem.com/sdesign.htm
+{'sketching', 'examples', 'code'} https://www.dynamicgeometry.com/JavaSketchpad.html/About_JavaSketchpad.html
+{'examples', 'class', 'code', 'drawing'} https://beginwithjava.blogspot.com/2008/07/very-basic-java0graphics-3-example.html
+{'site', 'words', 'domain', 'stackoverflow', 'query', 'advanced'} https://www.google.com/advanced_search
+{'words', 'query', 'advanced'} https://www.google.com/advanced_search
+{'words', 'program', 'query', 'advanced'} https://www.google.com/advanced_search
+{'datastructures', 'alogritms'} https://"processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/mario.html	"
+{'thse', 'type', 'ps', 'file', 'words', 'query', 'advanced'} https://www.google.com/advanced_search
+{'required', 'make', 'datastructures'} https://www.gamedev.net/topics/454803-super-mario-source-code
+{'required', 'make', 'datastructures'} https://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html
+{'source'} https://github.com/arjanfrans/mario-game
+set() https://javamarioplatformer.codeplex.com
+set() https://www.coderance.com/t/201140/Game-Development/java/JMario-Java-side-scroll-game
+{'program'} https://www.coderance.com/t/633871/open-source/Java-Open-Source-survey-application
+{'program'} https://"jcaif.sourceforge.net/sonar/screenshots.html	"
+{'survye', 'using', 'building'} https://jdesurvey.codeplex.com
+{'doc', 'recod', 'filetype'} https://www.google.com/advanced_search
+{'program', 'teaching'} https://java.net/projects_tags/math
+{'program', 'teaching', 'in'} https://code.org/educate/curriculum/3rd-party
+{'program', 'teaching', 'in'} https://java.net/projects/fcalculator/sources
+{'program', 'teaching', 'in'} https://java.net/projects/fcalculator/sources/source-code-repository/show
+{'program', 'teaching', 'in'} https://java.net/projects/fcalculator/sources/source-code-repository/show/src/org?rev=1
+{'program', 'teaching', 'in'} https://java.net/projects/fcalculator/sources/source-code-repository/show/src/org/fc?rev=1
+{'program', 'teaching', 'in'} https://java.net/projects/fcalculator/sources/source-code-repository/show/src/org/fc/algorithms?rev=1
+{'program', 'teaching', 'in'} https://java.net/projects/fcalculator/sources/source-code-repository/show/src/org/fc/algorithms/Statistics.java?rev=1
+{'program', 'teaching', 'in'} https://java.net/projects/jscience/sources/svn/show
+{'program', 'teaching', 'in'} https://java.net/projects/jscience/sources/svn/show/trunk?rev=696
+{'program', 'teaching', 'in'} https://java.net/projects/jscience/sources/svn/show/trunk/jscience?rev=696
+{'program', 'teaching', 'in'} https://java.net/projects/jscience/sources/svn/show/trunk/jscience/src?rev=696        
+{'program', 'teaching', 'in'} https://java.net/projects/jscience/sources/svn/show/trunk/jscience/src/site?rev=696
+{'program', 'teaching', 'in'} https://java.net/projects/jscience/sources/svn/show/trunk/jscience/src/site/doc?rev=696
+{'program', 'teaching', 'in'} https://java.net/projects/jscience/sources/svn/show/trunk/jscience
+{'program', 'teaching', 'in'} "https://java.net/projects/scientificpad/sources/svn/show	"
+{'program', 'teaching', 'in'} https://java.net/projects/scientificpad/sources/svn/show/trunk?rev=81
+{'program', 'teaching', 'in'} "https://java.net/projects/scientificpad/sources/svn/show/trunk/src?rev=81	"
+{'program', 'teaching', 'in'} https://java.net/projects/scientificpad/sources/svn/show/trunk/src/MathMLPad?rev=81
+{'com', 'site', 'teaching', 'github'} https://github.com/teake/simplie
+{'com', 'site', 'teaching', 'github'} https://github.com/vkostyukov/la4j
+{'com', 'site', 'teaching', 'github'} https://github.com/vkostyukov/la4j/tree/master/src
+{'com', 'site', 'teaching', 'github'} https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j
+{'com', 'site', 'teaching', 'github'} https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j/Matrix.java
+{'com', 'site', 'teaching', 'github'} https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j/linear
+{'com', 'site', 'teaching', 'github'} https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j/linear/AbstractSolver.java
+{'com', 'site', 'teaching', 'github'} https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j/linear/ForwardBackSubstitutionSolver.java
+{'com', 'site', 'teaching', 'github'} https://github.comManojkumarMuralidharan/MultiAgent-Virtual-Teaching-Assistant/blob/master/MA_Virtual_TA/src/edu/ncsu/csu/mvta/sevice/QuestionService.java
+{'com', 'site', 'teaching', 'github'} https://github.com/haifengl/smile
+{'com', 'site', 'teaching', 'github'} https://github.com/kredel/java-algebra-system
+{'com', 'site', 'teaching', 'github'} https://github.com/kredel/java-algebra-system/tree/master/src/edu
+{'com', 'site', 'teaching', 'github'} https://github.com/kredel/java-algebra-system/tree/master/src/edu/jas
+{'com', 'site', 'teaching', 'github'} https://github.com/tzaeschke/zoodb/blob/master/examples/org/zoodb/jdo/ex2/Example2Main.java
+{'com', 'site', 'teaching', 'github'} https://gist.github.com/anonymous/1406238
+{'com', 'site', 'teaching', 'github'} https://github.com/fommil/matrix-toolkits-java
+{'com', 'site', 'teaching', 'github'} https://github.com/fommil/matrix-toolkits-java/tree/master/src
+{'com', 'site', 'teaching', 'github'} https://github.com/fommil/matrix-toolkits-java/tree/master/src/main/java/no/uib/cipr/matrix
+{'com', 'site', 'teaching', 'github'} https://github.com/fommil/matrix-toolkits-java/tree/master/src/main/java/no/uib/cipr/matrix/Vector.java
+{'com', 'site', 'teaching', 'github'} "https://github.com/fommil/matrix-toolkits-java/tree/master/src/main/java/no/uib/cipr/matrix/Matrix.java	"
+{'com', 'site', 'teaching', 'github'} https://github.com/haifengl/smile/tree/master/math
+{'com', 'site', 'teaching', 'github'} https://github.com/haifengl/smile/tree/master/math/src
+{'com', 'site', 'teaching', 'github'} https://github.com/haifengl/smile/tree/master/math/src/main/java/smile/stat
+{'com', 'site', 'teaching', 'github'} https://github.com/friendly/matlib
+{'com', 'site', 'github'} https://www.ncbi.nim.nih.gov/pubmed/8947770
+{'combinations', 'possible', 'enumerate', 'java', 'grouping'} https://codereview.stackexchagne.com/questions/12262/create-a-list-of-all-possible-combinations-of-elements-into-n-groups-from-a-set
+{'add', 'button', 'listener'} https://alvinalexander.com/java/button-listener-pressed-actionlistener
+{'hashmap'} https://alvinalexander.com/java/button-listener-pressed-actionlistener

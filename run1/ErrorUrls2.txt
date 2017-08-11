@@ -1,0 +1,123 @@
+['java', 'survey', 'program', 'code'] https://stackoverflow.com/questions/â€¦/open-source-survey-questionaire-engine-for-java/
+['java', 'code', 'sims', 'game'] https://www.java-gaming.org/topics/locking-list
+['java', 'code', 'sims', 'game'] http://www.quora.com/Do-I-need-to-learn-data-structures-for-video-game-programming
+['java', 'code', 'sims', 'game'] http://www.quora.com/What-is-the-best-data-structure-for-a-2D-real-time-game-for-drawing-and-collisions
+['java', 'code', 'sims', 'game'] https://www.java-gaming.org/topics/locking-list
+['java', 'code', 'sims', 'game'] http://www.quora.com/Do-I-need-to-learn-data-structures-for-video-game-programming
+['java', 'code', 'sims', 'game'] http://www.quora.com/What-is-the-best-data-structure-for-a-2D-real-time-game-for-drawing-and-collisions
+['othello', 'java', 'data', 'structure'] https://martin-thoma.com/images/2012/04/minted-source-code.pdf
+['java', 'web', 'application'] https://www.jdsoft.com
+['java', 'web', 'applications', 'examples'] https://docs.oracle.com/javaee/6/tutorial/doc/bnadh.html
+['java', 'search', 'and', 'sort', 'into', 'groups', 'algorithms', 'site', 'stackoverflow', 'com'] http://docjar.com/html/api/java.util/Collections.java.html
+['java', 'code', 'to', 'solve', 'equations'] https://avc.com/2015/07/using-code-to-teach-algebra/
+['java', 'swing', 'paint'] https://docs.oracle.com/javase/tutorial/uiswing/drawing/
+['java', 'swing', 'tutorial', 'drawing'] https://stackoverflow.com/questions/16995308/can-you-increase-line-thickness-when-using-java-graphics-for-an-applet-i-donâ€™t
+['java', 'basic', 'algebra'] https://www.inmath.com/matrices-determinants/1-determinants.php
+['java', 'apache', 'util', 'math'] https://www.functionx.com/java/Lession17.htm
+['java', 'random', 'expression', 'generator'] http://en.wikipedia.org/wiki/Lexical_analysis
+['guava', 'algebra'] https://stackoverflow.com/questions/135892/is-there-a-library-for-linear-algebra-matrix-handling-in-java
+['java', 'algebra', 'system', 'site', 'stackoverflow', 'com', 'examples', 'java', 'algebra', 'system', 'site', 'stackoverflow', 'com', 'examples', 'ava', 'algebra', 'system', 'site', 'stackov', 'va', 'algebra', 'sy'] https://stackoverflow.com/questions3051138/how-would-someone-implement-mathematical-formulae-in-java
+['java', 'algebraic', 'data', 'type'] https://github.com/Jamesiry/jADT
+['java', 'polynomial', 'class'] https://statr.me/2015/09/an-overview-of-linear-algebra-libraries-in-scala-java
+['java', 'code', 'to', 'teach', 'algebra', 'site', 'stackoverflow', 'com', 'github', 'com'] https://avc.com/2015/07/using-code-to-teach-algebra/
+['java', 'code', 'for', 'generating', 'math', 'equations'] https://avc.com/2015/07/using-code-to-teach-algebra/
+['java', 'code', 'for', 'generating', 'math', 'equations'] https://www.mathandcoding.org
+['random', 'math', 'operator', 'java'] https://javagraphics.java.net/doc/com/bric/math/Equations.html
+['random', 'math', 'operator', 'java'] https://javagraphics.java.net/doc/com/bric/math/Equations.html#Equations~~
+['random', 'math', 'operator', 'java'] https://java.net/svn/javagraphics~svn/trunk/src/com/bric/math/Equations.java
+['java', 'drawing', 'program', 'example'] https://www.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html
+['java', 'draw', 'in', 'response', 'to', 'user', 'input'] https://beginwithjava.blogspot.com/2008/07/very-basic-graphics-3-examples.html
+['jcolorchooser'] https://www.ntu.edu.sg/home/ehchua/programming/java/J4b_CustomGraphics.html
+['java', 'email', 'client', 'count', 'messages'] https://java-source.net/open-source/mail-clients
+['java', 'email', 'client', 'count', 'messages'] https://freesourcecode.net/javaprojects/12945/Java-Email-Client-Example#.V0NziZMrK_A
+['java', 'email', 'client', 'count', 'messages'] https://freesourcecode.net/javaprojects/12945/MailBox.java#.V0NziZMrK_A
+['java', 'email', 'client', 'count', 'messages'] https://www.java2s.com/Code/Java/Network-Protocol/PureJavaEmailClient.htm
+['java', 'email', 'client', 'count', 'messages'] https://github.com/sendwithus/sendwithus_java
+['java', 'email', 'client', 'count', 'messages'] https://github.com/sendwithus/sendwithus_java/tree/master/client
+['java', 'email', 'client', 'count', 'messages'] https://github.com/sendwithus/sendwithus_java/tree/master/client/src
+['java', 'email', 'client', 'count', 'messages'] https://github.com/sendwithus/sendwithus_java/tree/master/client/src/main/java/com/sendwithus
+['java', 'email', 'client', 'count', 'messages'] https://github.com/sendwithus/sendwithus_java/tree/master/client/src/main/java/com/sendwithus/SendWithUs.java
+['java', 'survey', 'program', 'code'] https://gist.github.com/jewelsea/2850787
+['java', 'survey', 'program', 'code'] https://www.twillio.com/docs/tutorials/walkthrough/automated-survey/java/spring
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-all
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/util
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/service
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/service/survey
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/service/survey/SurveyService.java
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey
+['parts', 'of', 'a', 'survey', 'application'] https://gist.github.com/jewelsea/2850787
+['parts', 'of', 'a', 'survey', 'application'] https://github.com/JD-Software/JDeSurvey/tree/master/jdsurvey-core/src/main/java/com/jd/survey/service/survey/SurveyService.java
+['survey', 'database'] https://www.surveysystem.com/sdesign.htm
+['java', 'sketching', 'code', 'examples'] https://www.dynamicgeometry.com/JavaSketchpad.html/About_JavaSketchpad.html
+['java', 'drawing', 'class', 'code', 'examples'] https://beginwithjava.blogspot.com/2008/07/very-basic-java0graphics-3-example.html
+['advanced', 'query', 'all', 'these', 'words', 'mario', 'java', 'and', 'any', 'of', 'these', 'words', 'java', 'and', 'site', 'or', 'domain', 'stackoverflow'] https://www.google.com/advanced_search
+['advanced', 'query', 'all', 'these', 'words', 'mario', 'java', 'and', 'any', 'of', 'these', 'words', 'java'] https://www.google.com/advanced_search
+['advanced', 'query', 'all', 'these', 'words', 'mario', 'java', 'program', 'and', 'any', 'of', 'these', 'words', 'java'] https://www.google.com/advanced_search
+['mario', 'basic', 'game', 'datastructures', 'and', 'alogritms'] https://"processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/mario.html	"
+['advanced', 'query', 'all', 'these', 'words', 'basic', 'mario', 'game', 'java', 'and', 'any', 'of', 'thse', 'words', 'java', 'and', 'file', 'type', 'ps'] https://www.google.com/advanced_search
+['java', 'datastructures', 'required', 'to', 'make', 'mario', 'game'] https://www.gamedev.net/topics/454803-super-mario-source-code
+['java', 'datastructures', 'required', 'to', 'make', 'mario', 'game'] https://www.javaworld.com/article/2073390/core-java/datastructures-and-algorithms-part-1.html
+['how', 'to', 'make', 'a', 'mario', 'game', 'in', 'java'] https://github.com/arjanfrans/mario-game
+['java', 'basic', 'mario', 'game'] https://www.coderance.com/t/201140/Game-Development/java/JMario-Java-side-scroll-game
+['java', 'survey', 'program'] https://www.coderance.com/t/633871/open-source/Java-Open-Source-survey-application
+['java', 'survey', 'program'] https://"jcaif.sourceforge.net/sonar/screenshots.html	"
+['linear', 'algebra', 'java', 'implementation', 'github'] https://github.com/fommil/netlib-java
+['linear', 'algebra', 'java', 'implementation', 'github'] https://github.com/SebastianNiemann/ArmadilloJava
+['linear', 'algebra', 'java', 'implementation', 'github'] https://github.com/SebastianNiemann/ArmadilloJava/tree/master/src
+['linear', 'algebra', 'java', 'implementation', 'github'] https://github.com/SebastianNiemann/ArmadilloJava/tree/master/src/main/java/org/armadillojava
+['patient', 'recod', 'system', 'filetype', 'doc'] https://www.google.com/advanced_search
+['java', 'source', 'code', 'teaching', 'algebra', 'program'] https://java.net/projects_tags/math
+['teaching', 'algebra', 'program', 'in', 'java'] https://code.org/educate/curriculum/3rd-party
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/fcalculator/sources
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/fcalculator/sources/source-code-repository/show
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/fcalculator/sources/source-code-repository/show/src/org?rev=1
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/fcalculator/sources/source-code-repository/show/src/org/fc?rev=1
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/fcalculator/sources/source-code-repository/show/src/org/fc/algorithms?rev=1
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/fcalculator/sources/source-code-repository/show/src/org/fc/algorithms/Statistics.java?rev=1
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/jscience/sources/svn/show
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/jscience/sources/svn/show/trunk?rev=696
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/jscience/sources/svn/show/trunk/jscience?rev=696
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/jscience/sources/svn/show/trunk/jscience/src?rev=696        
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/jscience/sources/svn/show/trunk/jscience/src/site?rev=696
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/jscience/sources/svn/show/trunk/jscience/src/site/doc?rev=696
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/jscience/sources/svn/show/trunk/jscience
+['teaching', 'algebra', 'program', 'in', 'java'] "https://java.net/projects/scientificpad/sources/svn/show	"
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/scientificpad/sources/svn/show/trunk?rev=81
+['teaching', 'algebra', 'program', 'in', 'java'] "https://java.net/projects/scientificpad/sources/svn/show/trunk/src?rev=81	"
+['teaching', 'algebra', 'program', 'in', 'java'] https://java.net/projects/scientificpad/sources/svn/show/trunk/src/MathMLPad?rev=81
+['teaching', 'algebra', 'with', 'java', 'site', 'github', 'com'] https://github.com/teake/simplie
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/vkostyukov/la4j
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/vkostyukov/la4j/tree/master/src
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j/Matrix.java
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j/linear
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j/linear/AbstractSolver.java
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/vkostyukov/la4j/tree/master/src/main/java/org/la4j/linear/ForwardBackSubstitutionSolver.java
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.comManojkumarMuralidharan/MultiAgent-Virtual-Teaching-Assistant/blob/master/MA_Virtual_TA/src/edu/ncsu/csu/mvta/sevice/QuestionService.java
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/haifengl/smile
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/kredel/java-algebra-system
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/kredel/java-algebra-system/tree/master/src/edu
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/kredel/java-algebra-system/tree/master/src/edu/jas
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/tzaeschke/zoodb/blob/master/examples/org/zoodb/jdo/ex2/Example2Main.java
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://gist.github.com/anonymous/1406238
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/fommil/matrix-toolkits-java
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/fommil/matrix-toolkits-java/tree/master/src
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/fommil/matrix-toolkits-java/tree/master/src/main/java/no/uib/cipr/matrix
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/fommil/matrix-toolkits-java/tree/master/src/main/java/no/uib/cipr/matrix/Vector.java
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] "https://github.com/fommil/matrix-toolkits-java/tree/master/src/main/java/no/uib/cipr/matrix/Matrix.java	"
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/haifengl/smile/tree/master/math
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/haifengl/smile/tree/master/math/src
+['teaching', 'algebra', 'java', 'source', 'code', 'site', 'github', 'com'] https://github.com/haifengl/smile/tree/master/math/src/main/java/smile/stat
+['teaching', 'algebra', 'java', 'site', 'github', 'com'] https://github.com/friendly/matlib
+['patient', 'records', 'in', 'java', 'site', 'github', 'com'] https://www.ncbi.nim.nih.gov/pubmed/8947770
+['grouping', 'enumerate', 'all', 'possible', 'combinations', 'java'] https://codereview.stackexchagne.com/questions/12262/create-a-list-of-all-possible-combinations-of-elements-into-n-groups-from-a-set
+['java', 'add', 'listener', 'to', 'button'] https://alvinalexander.com/java/button-listener-pressed-actionlistener
+['java', 'hashmap'] https://alvinalexander.com/java/button-listener-pressed-actionlistener
